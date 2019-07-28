@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class EmnistConverter
 {
-
+	// DO NOT INVOKE THIS METHOD DIRECTLY. 
 	private void convert(final String labelInputFile, final String imageInputFile, final String outputFileName,
 			Map<Integer, String> map)
 	{
